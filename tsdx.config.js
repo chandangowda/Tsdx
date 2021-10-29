@@ -1,6 +1,6 @@
 const postcss = require('rollup-plugin-postcss');
 const static_files = require('rollup-plugin-static-files');
-const images = require('@rollup/plugin-image');
+const image = require('@rollup/plugin-image');
 
 
 module.exports = {
